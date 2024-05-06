@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiuapp", "Fiuapp\Fiuapp.csproj", "{AE707002-1323-4897-8DFF-9F4663A217A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE707002-1323-4897-8DFF-9F4663A217A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE707002-1323-4897-8DFF-9F4663A217A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE707002-1323-4897-8DFF-9F4663A217A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE707002-1323-4897-8DFF-9F4663A217A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD92D4B-E068-4F30-83B6-14D9CAEC56D3}
+	EndGlobalSection
+EndGlobal
